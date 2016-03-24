@@ -6,11 +6,11 @@
   "keywords": ["node", "slack"],
   "env": {
     "SLACK_SUBDOMAIN": {
-      "description": "Your Slack's subdomain (**this**.slack.com)",
+      "description": "https://javascriptlitoral.slack.com",
       "required": true
     },
     "SLACK_API_TOKEN": {
-      "description": "A Slack API token (find it on https://api.slack.com/web)",
+      "description": "xoxp-29106585584-29114348833-29111132517-31bccef949",
       "required": true
     },
     "SLACK_COC": {
