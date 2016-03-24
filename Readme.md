@@ -21,7 +21,7 @@ Read more about the [motivations and history](http://rauchg.com/slackin) behind 
 
 #### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rauchg/slackin/tree/0.8.3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JavascriptLitoral/slackin/0.8.4)
 
 #### Azure
 
