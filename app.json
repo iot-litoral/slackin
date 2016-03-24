@@ -1,8 +1,8 @@
 {
   "name": "Slackin",
-  "description": "Let people invite themselves to your Slack",
-  "logo": "https://i.imgur.com/odDO1Fx.png",
-  "repository": "https://github.com/rauchg/slackin",
+  "description": "Welcome to javascriptLitoral!",
+  "logo": "https://avatars1.githubusercontent.com/u/17018217?v=3&s=200",
+  "repository": "https://github.com/JavascriptLitoral/slackin",
   "keywords": ["node", "slack"],
   "env": {
     "SLACK_SUBDOMAIN": {
