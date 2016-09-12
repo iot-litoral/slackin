@@ -1,16 +1,16 @@
 {
   "name": "Slackin",
-  "description": "Welcome to javascriptLitoral!",
+  "description": "Welcome to IOT Litoral!",
   "logo": "https://avatars1.githubusercontent.com/u/17018217?v=3&s=200",
-  "repository": "https://github.com/JavascriptLitoral/slackin",
+  "repository": "https://github.com/iot-litoral/slackin",
   "keywords": ["node", "slack"],
   "env": {
     "SLACK_SUBDOMAIN": {
-      "description": "https://javascriptlitoral.slack.com",
+      "description": "https://iotlitoral.slack.com",
       "required": true
     },
     "SLACK_API_TOKEN": {
-      "description": "xoxp-29106585584-29114348833-29111132517-31bccef949",
+      "description": "xoxp-333333333-29114348833-29111132517-31bccef949",
       "required": true
     },
     "SLACK_COC": {
