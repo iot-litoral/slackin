@@ -1,7 +1,7 @@
 {
   "name": "Slackin",
   "description": "Welcome to IOT Litoral!",
-  "logo": "https://avatars1.githubusercontent.com/u/17018217?v=3&s=200",
+  "logo": "http://www.businesscloudnews.com/files/2016/01/IoT-cloud.jpg",
   "repository": "https://github.com/iot-litoral/slackin",
   "keywords": ["node", "slack"],
   "env": {
